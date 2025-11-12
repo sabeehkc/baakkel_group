@@ -1,0 +1,4 @@
+Please add your company logo here as "logo.png"
+The logo should be placed in this public/ folder.
+The website will automatically use it in the header and hero sections.
+
